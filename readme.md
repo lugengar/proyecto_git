@@ -11,7 +11,7 @@ apartado de descanso donde puedas cuidar de la mascota virtual.
 
 Recursos:
 - Calendario
-- Permisos de notificaciones, alarmas y temporizadores
+- Permisos de notificaciones, alarmas, archivos y temporizadores
 - Api de chatGPT
 - Api de google Drive (Word,Pdf,etc) opcional
 - Autenticacion de usuario con cuenta de Google
@@ -38,8 +38,7 @@ Recursos:
 ### WORKSPACE DE ESTUDIO
 
 Descripcion: 
-Una app que consista en un area de trabajo donde tenes todo lo necesario 
-para el estudio, con la posibilidad de configurar de antemano los archivos, aplicaciones,
+Una app que consista en un area de trabajo donde tenes todo lo necesario para realizar tareas, este contara con todas las aplicacions que necesites sin la necesidad de salir de la aplicacion, tendra la posibilidad de configurar de antemano los archivos, aplicaciones,
 interfaz y playlist.
 
 Recursos:
@@ -47,7 +46,5 @@ Recursos:
 - Playlist Youtube o Spotify
 - Diseñador de imagenes para la app (Photoshop)
 - Base de datos
--
--
--
--
+- JAVA 
+- Permisos del celular: acceso a archivos y a otras aplicaciones
