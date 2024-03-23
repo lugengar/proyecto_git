@@ -10,15 +10,15 @@ utilizando temporizadores y con asistencia de inteligencia artificial. Ademas un
 apartado de descanso donde puedas cuidar de la mascota virtual.
 
 Recursos:
-- Calendario
+- [Calendario](https://developers.google.com/calendar/api/guides/overview?hl=es-419)
 - Permisos de notificaciones, alarmas, archivos y temporizadores
-- Api de chatGPT
-- Api de google Drive (Word,Pdf,etc) opcional
+- [Api de chatGPT](https://platform.openai.com/docs/api-reference/introduction)
+- [Api de google Drive Y Apache PDFBox (Word,Pdf,etc) opcional](https://pdfbox.apache.org/)
 - Autenticacion de usuario con cuenta de Google
-- Base de datos
-- Java
-- Playlist Youtube
-- Diseñador de imagenes para la app (Illustrator)
+- [Base de datos](https://www.mysql.com/)
+- [Java](https://www.java.com/es/)
+- [Playlist Youtube](https://www.youtube.com/)
+- [Diseñador de imagenes para la app (Illustrator)](https://www.adobe.com/ar/products/illustrator.html)
 
 ### TURNOS PARA SALÓN DE BELLEZA
 
@@ -27,13 +27,13 @@ Una app de turnos para salones de belleza, facilitaria a los clientes
 reservar citas para servicios de belleza, y a los estilistas gestionar su agenda.
 
 Recursos:
-- Calendario
-- JAVA
-- Api Google Maps u open street map
-- Base de datos
+- [Calendario](https://developers.google.com/calendar/api/guides/overview?hl=es-419)
+- [Java](https://www.java.com/es/)
+- [Api Google Maps u open street map](https://www.openstreetmap.org/#map=7/-43.997/-65.830)
+- [Base de datos](https://www.mysql.com/)
 - Permisos de notificacion
 - Chat tipo Whatsapp o Telegram
-- Diseñador de imagenes para la app (Photoshop)
+- [Diseñador de imagenes para la app (Photoshop)](https://www.adobe.com/ar/products/photoshop.html)
 
 ### WORKSPACE DE ESTUDIO
 
@@ -42,9 +42,9 @@ Una app que consista en un area de trabajo donde tenes todo lo necesario para re
 interfaz y playlist.
 
 Recursos:
-- Api Word, Pdf, Drive, Excel, Photoshop etc. 
-- Playlist Youtube o Spotify
-- Diseñador de imagenes para la app (Photoshop)
-- Base de datos
-- JAVA 
+- [Api Word, Pdf(Apache PDFBox), Drive, Excel, Photoshop etc.](https://pdfbox.apache.org/)
+- [Playlist Youtube o Spotify](https://developer.spotify.com/documentation/web-api)
+- [Diseñador de imagenes para la app (Photoshop)](https://www.adobe.com/ar/products/photoshop.html)
+- [Base de datos](https://www.mysql.com/)
+- [Java](https://www.java.com/es/)
 - Permisos del celular: acceso a archivos y a otras aplicaciones
