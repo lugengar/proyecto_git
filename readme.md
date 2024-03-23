@@ -29,7 +29,7 @@ reservar citas para servicios de belleza, y a los estilistas gestionar su agenda
 Recursos:
 - Calendario
 - JAVA
-- Api Google Maps
+- Api Google Maps u open street map
 - Base de datos
 - Permisos de notificacion
 - Chat tipo Whatsapp o Telegram
